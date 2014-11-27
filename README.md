@@ -25,11 +25,12 @@ red-green-blue
         $(document).foundation();
       </script> 
   Fix Foundation import lines in _settings.scss
-      @import "partials/settings";
+        @import "../bower_components/foundation/scss/foundation/functions";
   Link to SETTINGS partial in styles.scss
-      @import "bower_components/foundation/scss/foundation";
+        @import "partials/settings";
   Link to Foundation FUNCTIONS within settings partial
-      @import "../bower_components/foundation/scss/foundation/functions";
+        @import "../bower_components/foundation/scss/foundation/functions";
+        
 5. Add node_modules/ and bower_components/ to .gitignore
 6. Test gulp
 7. Run gulp & http-server
