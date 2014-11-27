@@ -1,0 +1,23 @@
+{
+  "name": "red-green-blue",
+  "version": "1.0.0",
+  "description": "red-green-blue ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpbatz/red-green-blue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpbatz/red-green-blue/issues"
+  },
+  "homepage": "https://github.com/jpbatz/red-green-blue",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-sass": "^1.1.0"
+  }
+}
