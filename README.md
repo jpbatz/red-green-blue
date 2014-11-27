@@ -1,3 +1,4 @@
+<pre>
 red-green-blue
 ==============
 1. Create GitHub Repository "red-green-blue"
@@ -35,3 +36,4 @@ red-green-blue
     Verify scss/styles.scss compiles to css/styles.css
     Copy Foundation sample to index.html, and view in browser at localhost:8080
 9. Add scss code from board, and create html markup.
+</pre>
