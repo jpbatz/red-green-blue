@@ -31,5 +31,7 @@ red-green-blue
       @import "../bower_components/foundation/scss/foundation/functions";
 5. Add node_modules/ and bower_components/ to .gitignore
 6. Test gulp
-7. Add code from board
-8. Run gulp & http-server
+7. Run gulp & http-server
+    Verify scss/styles.scss compiles to css/styles.css
+    Copy Foundation sample to index.html, and view in browser at localhost:8080
+9. Add scss code from board, and create html markup.
